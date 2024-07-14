@@ -1,0 +1,11 @@
+CGPA,INTERACTIVE,PRACTICAL KNOWLEDGE,COMMUNICATION SKILLS,JOB OFFER
+>=9,yes,very good,good,
+>=8,,good,moderate,yes
+>=9,no,average,poor,no
+<8,no,,good,
+>=8,yes,good,moderate,yes
+>=9,yes,good,moderate,yes
+<8,yes,good,,no
+,no,,good,yes
+>=8,yes,good,good,yes
+>=8,yes,average,good,yes
